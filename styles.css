@@ -1,0 +1,14 @@
+body {
+  background: #ffe259;
+  background: linear-gradient(to right, #ffa751, #ffe259);
+}
+
+.bg {
+  background-image: url('featureuserpersona.jpg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.fa-brands {
+  font-size: 1.5rem;
+}
